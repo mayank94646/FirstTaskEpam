@@ -1,0 +1,20 @@
+class Node
+{
+    int data;
+    Node left;
+    Node right;
+    Node(int data)
+    {
+        this.data = data;
+    }
+}
+
+class tree
+{
+
+
+
+●	Project made: Pre-trained Image Classifier to Identify Dog Breeds with Python at Chitkara University
+(February 2019- March 2019)
+This project is used to identify dog breeds using a created image classifier.
+I applied python tools to use the classifier to identify if animal is dog or not and to identify its breed.
